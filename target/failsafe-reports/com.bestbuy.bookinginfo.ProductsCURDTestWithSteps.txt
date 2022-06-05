@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.bookinginfo.ProductsCURDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.bestbuy.bookinginfo.ProductsCURDTestWithSteps
+test001(com.bestbuy.bookinginfo.ProductsCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.ProductsCURDTestWithSteps.test001(ProductsCURDTestWithSteps.java:37)
+
+test002(com.bestbuy.bookinginfo.ProductsCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.ProductsCURDTestWithSteps.test002(ProductsCURDTestWithSteps.java:44)
+
+test003(com.bestbuy.bookinginfo.ProductsCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.ProductsCURDTestWithSteps.test003(ProductsCURDTestWithSteps.java:54)
+
+test004(com.bestbuy.bookinginfo.ProductsCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.ProductsCURDTestWithSteps.test004(ProductsCURDTestWithSteps.java:65)
+
+test005(com.bestbuy.bookinginfo.ProductsCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.ProductsCURDTestWithSteps.test005(ProductsCURDTestWithSteps.java:73)
+

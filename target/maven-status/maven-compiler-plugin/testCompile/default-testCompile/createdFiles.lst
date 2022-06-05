@@ -1,0 +1,10 @@
+com\bestbuy\testbase\TestBaseCategories.class
+com\bestbuy\testbase\TestBaseUtilities.class
+com\bestbuy\bookinginfo\CategoriesCURDTestWithSteps.class
+com\bestbuy\testbase\TestBaseServices.class
+com\bestbuy\bookinginfo\StoresCURDTestWithSteps.class
+com\bestbuy\testbase\TestBaseProducts.class
+com\bestbuy\bookinginfo\ProductsCURDTestWithSteps.class
+com\bestbuy\bookinginfo\UtilitiesCURDTestWithSteps.class
+com\bestbuy\testbase\TestBaseStores.class
+com\bestbuy\bookinginfo\ServicesCURDTestWithSteps.class

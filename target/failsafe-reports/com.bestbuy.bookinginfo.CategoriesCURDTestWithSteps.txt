@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.461 sec <<< FAILURE! - in com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps
+test001(com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps)  Time elapsed: 0.01 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps.test001(CategoriesCURDTestWithSteps.java:28)
+
+test002(com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps.test002(CategoriesCURDTestWithSteps.java:35)
+
+test003(com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps.test003(CategoriesCURDTestWithSteps.java:45)
+
+test004(com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.bestbuy.bookinginfo.CategoriesCURDTestWithSteps.test004(CategoriesCURDTestWithSteps.java:53)
+
